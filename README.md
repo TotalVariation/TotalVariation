@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TotalVariation, a PhD student at Ulster University.
+- 👋 Hi, I’m @TotalVariation, a PhD student at Artificial Intelligence Research Centre at Ulster University, Belfast, UK.
 - 👀 I’m interested in Computer Vision, Time Series Analysis, and Remote Sensing.
-- 🌱 I’m currently working on my PhD research project on Satellite Image Time Series based crop type mapping.
-- 💞️ I’m looking to collaborate on deep learning models for Time Series Analysis.
+- 🌱 I’m currently working on my PhD research project on crop type mapping from Satellite Image Time Series (SITS).
+- 💞️ I’m looking to collaborate on deep learning models for Remote Sensing and Time Series Analysis.
 - 📫 My Email address: xincai00[at]gmail[dot]com.
 
 <!---
