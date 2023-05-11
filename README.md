@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xin-cai-0332b824b/)
 
 
-<a href='https://github.com/WenjieDu'>
+<a href='https://github.com/TotalVariation'>
     <img align='right' width='320' src='https://github-readme-stats.vercel.app/api?username=TotalVariation&show_icons=true&theme=vue-dark'>
 </a>
 
