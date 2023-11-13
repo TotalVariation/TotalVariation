@@ -8,7 +8,7 @@
     <img align='right' width='320' src='https://github-readme-stats.vercel.app/api?username=TotalVariation&show_icons=true&hide_rank=true&hide_title=true&theme=vue-dark'>
 </a>
 
-:wave: Hi, I'm Xin Cai (pronounced Sheen Tsai), a PhD student at the Artificial Intelligence Research Centre ([AIRC](https://www.ulster.ac.uk/research/topic/computer-science/artificial-intelligence)) at Ulster University, Belfast, UK, with a focus on large-scale crop type mapping from Satellite Image Time Series (SITS), and a keen interest in Computer Vision, Generative AI, and Multimodal Learning. I am committed to bridging the gap between academic research and practical applications that make a real-world impact. I firmly believe in the democratization of cutting-edge technologies and open source as the key to creating a more equitable and inclusive society. It would be my greatest pleasure to see my work benefit you in any way.
+:wave: Hi, I'm Xin Cai (pronounced Sheen Tsai), my previous PhD program at AIRC, Ulster University focused on large-scale crop type mapping from Satellite Image Time Series (SITS). Besides, I have a keen interest in Computer Vision, Generative AI, and Multimodal Learning. I am committed to bridging the gap between academic research and practical applications that make a real-world impact. I firmly believe in the democratization of cutting-edge technologies and open source as the key to creating a more equitable and inclusive society. It would be my greatest pleasure to see my work benefit you in any way. [Personal Website](https://totalvariation.github.io/)
 
 :smiley: Thank you for reading my profile.
 
