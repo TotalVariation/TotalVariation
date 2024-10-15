@@ -8,7 +8,7 @@
     <img align='right' width='320' src='https://github-readme-stats.vercel.app/api?username=TotalVariation&show_icons=true&hide_rank=true&hide_title=true&theme=vue-dark'>
 </a>
 
-:wave: Hi, I'm Xin Cai, having a keen interest in Computer Vision, Generative Modelling, Multimodal Learning, Time Series Analysis, Earth Observation & Remote Sensing, and Medical Image Analysis. I am committed to bridging the gap between academic research and practical applications that make a real-world impact. I firmly believe in the democratization of cutting-edge technologies and open source as the key to creating a more equitable and inclusive society. It would be my greatest pleasure to see my work benefit you in any way. Find more information on my [Personal Website](https://totalvariation.github.io/)
+:wave: Hi, I'm Xin Cai, and I am keenly interested in computer vision, generative modelling, and multimodal learning. I am committed to bridging the gap between academic research and practical applications that make a real-world impact. I firmly believe in the democratization of cutting-edge technologies and open source as the key to creating a more equitable and inclusive society. It would be my greatest pleasure to see my work benefit you in any way. Please find more information on my [Personal Website](https://totalvariation.github.io/)
 
 :smiley: Thank you for reading my profile.
 
