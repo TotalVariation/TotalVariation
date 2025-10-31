@@ -3,12 +3,11 @@
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XinCai92)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xin-cai-0332b824b/)
 
+:wave: Hi, I'm Xin Cai, and I am keenly interested in computer vision, generative modelling, and multimodal large language models. I am committed to bridging the gap between academic research and practical applications that make a real-world impact. I firmly believe in democratising cutting-edge technologies and open source as the key to creating a more diverse and inclusive society. It would be my greatest pleasure to see my work benefit you in any way. Please find more information on my [Personal Website](https://totalvariation.github.io/)
 
 <a href='https://github.com/TotalVariation'>
-    <img align='right' width='320' src="https://github-readme-stats.vercel.app/api?username=totalvariation&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="totalvariation's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=totalvariation&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="totalvariation's GitHub Stats" />
 </a>
-
-:wave: Hi, I'm Xin Cai, and I am keenly interested in computer vision, generative modelling, and multimodal large language models. I am committed to bridging the gap between academic research and practical applications that make a real-world impact. I firmly believe in democratising cutting-edge technologies and open source as the key to creating a more diverse and inclusive society. It would be my greatest pleasure to see my work benefit you in any way. Please find more information on my [Personal Website](https://totalvariation.github.io/)
 
 :smiley: Thank you for reading my profile.
 
