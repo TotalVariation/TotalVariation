@@ -5,9 +5,11 @@
 
 :wave: Hi, I'm Xin Cai, and I am keenly interested in computer vision, generative modelling, and multimodal large language models. I am committed to bridging the gap between academic research and practical applications that make a real-world impact. I firmly believe in democratising cutting-edge technologies and open source as the key to creating a more diverse and inclusive society. It would be my greatest pleasure to see my work benefit you in any way. Please find more information on my [Personal Website](https://totalvariation.github.io/)
 
-<a href='https://github.com/TotalVariation'>
-    <img src="https://github-readme-stats.vercel.app/api?username=totalvariation&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="totalvariation's GitHub Stats" />
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=totalvariation&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="totalvariation's GitHub Stats" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totalvariation&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="totalvariation's GitHub Stats" />
 
 :smiley: Thank you for reading my profile.
 
