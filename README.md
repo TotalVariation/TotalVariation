@@ -11,6 +11,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totalvariation&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="totalvariation's GitHub Stats" />
 
+<img src="https://streak-stats.demolab.com?user=totalvariation&theme=vision-friendly-dark&hide_border=true" alt="totalvariation's GitHub Stats" />
+
 :smiley: Thank you for reading my profile.
 
 <!---
